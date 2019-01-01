@@ -1,0 +1,12 @@
+/*
+/*/
+!.gitignore
+
+!/boxes
+/boxes/*
+/boxes/*/
+
+!/boxes/laravel-VAGRANTSLASH-homestead
+/boxes/laravel-VAGRANTSLASH-homestead/*
+/boxes/laravel-VAGRANTSLASH-homestead/*/
+!/boxes/laravel-VAGRANTSLASH-homestead/metadata_url
